@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 To review weather trends in the months of December and June within Oahu to determine if the potential surf and ice-cream shop is a sustainable year-round business.
 ## Results
-3 major points of difference from the two analysis are:
+3 major points of difference from the two analyses are:
 - There is more data available to review in June than December (June:1,700) (December:1,517). This is strange where there are technically more days in December than June. This could suggest that there are less people on the island in December recording temperatures, that the recording stations are closed for the holidays etc. The population are however enough to perform statistical analysis on as  they are of similar enough size.
 - Max temp in December is 83 where in June it is 85, min in December is 56 where in June it is 64. This shows that while the max temperatures are quite close, in December it can get much cooler showing a wider array of differences.
 - The average temp in June is almost 75 where in December on average it is 71 with a standard deviation for December of 3.74 and in June of 3.25. This suggests that on average its cooler in December, however it is not drastically different between those two months.
