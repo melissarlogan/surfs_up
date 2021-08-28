@@ -12,8 +12,8 @@ To review weather trends in the months of December and June within Oahu to deter
 ## Summary
  Two additional queries that could be run to get more weather data for December and June are:
 
- -Running the same analysis but with reviewing the precipitation- this would help in determining if the trends in rainfall change month over month as that would impact having a surf shop if its hot and raining. 
- -Running the analysis for a smaller set of years, as there is data in this set from 2010 to 2017. With the trends in global temperatures overall rising it could be more useful to further group by years to see if there are any outlier years that are causing the averages to be higher or lower than they have seen in the recent 1-2 years
+ - Running the same analysis but with reviewing the precipitation- this would help in determining if the trends in rainfall change month over month as that would impact having a surf shop if its hot and raining. 
+ - Running the analysis for a smaller set of years, as there is data in this set from 2010 to 2017. With the trends in global temperatures overall rising it could be more useful to further group by years to see if there are any outlier years that are causing the averages to be higher or lower than they have seen in the recent 1-2 years
 
 
 
